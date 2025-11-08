@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/uabc-blackboard",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a uabc-blackboard",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/uabc-blackboard.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://mejorhistoria.com/uabc-blackboard/"
+    },
+    "homepage": "https://mejorhistoria.com/uabc-blackboard/"
+}
